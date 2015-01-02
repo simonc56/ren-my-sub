@@ -1,22 +1,23 @@
-ren-my-sub
-==========
+Description
+-----------
 
 Renomme les fichiers de sous-titres correspondants aux
 fichiers vidéos du répertoire courant, pour leur donner
 exactement le même nom. Nécessaire pour que les lecteurs
 vidéo utilisent ces sous-titres automatiquement.
 
-Les fichiers de séries TV sont aussi pris en compte,
-par ex: 'dexter 3x04 xvid.srt' avec 'Dexter.S03E04.avi'.
+Les fichiers de séries TV et leur numérotation d'épisodes
+sont aussi pris en compte, par ex: 'dexter 3x04 xvid.srt'
+avec 'Dexter.S03E04.avi'.
 
 
 Utilisation
 -----------
 
-1. Placer ce fichier python dans le répertoire contenant
-   vos films et sous-titres, et l'exécuter.
+1. Placer le fichier python dans le répertoire contenant
+   vos films et sous-titres, et le lancer.
 2. Choisir le mode: automatique renomme tous les fichiers
-   srt qui correspondent à un film, manuel demande
+   de sous-titre qui correspondent à un film, manuel demande
    confirmation pour renommer chaque sous-titre.
 
 
